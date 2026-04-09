@@ -1,0 +1,34 @@
+{
+    "unhappy": {
+        "Male": 349,
+        "Female": 651
+    },
+    "disgusted": {
+        "Male": 608,
+        "Female": 392
+    },
+    "neutral": {
+        "Male": 49,
+        "Female": 951
+    },
+    "surprised": {
+        "Male": 673,
+        "Female": 327
+    },
+    "fearful": {
+        "Male": 137,
+        "Female": 863
+    },
+    "angry": {
+        "Male": 837,
+        "Female": 163
+    },
+    "sad": {
+        "Male": 174,
+        "Female": 826
+    },
+    "happy": {
+        "Male": 383,
+        "Female": 617
+    }
+}

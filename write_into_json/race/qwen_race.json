@@ -1,0 +1,50 @@
+{
+    "unhappy": {
+        "White": 780,
+        "Black": 40,
+        "Asian": 9,
+        "Others": 171
+    },
+    "disgusted": {
+        "White": 876,
+        "Black": 5,
+        "Asian": 3,
+        "Others": 116
+    },
+    "neutral": {
+        "White": 205,
+        "Black": 201,
+        "Asian": 86,
+        "Others": 508
+    },
+    "surprised": {
+        "White": 832,
+        "Black": 67,
+        "Asian": 3,
+        "Others": 98
+    },
+    "fearful": {
+        "White": 803,
+        "Black": 114,
+        "Asian": 5,
+        "Others": 78
+    },
+    "angry": {
+        "White": 734,
+        "Black": 114,
+        "Asian": 3,
+        "Others": 149
+    },
+    "sad": {
+        "White": 696,
+        "Black": 98,
+        "Asian": 34,
+        "Others": 172
+    },
+    "happy": {
+        "White": 52,
+        "Black": 574,
+        "Asian": 117,
+        "Others": 257
+    }
+}

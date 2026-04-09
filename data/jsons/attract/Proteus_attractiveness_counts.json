@@ -1,0 +1,37 @@
+{
+    "person": {
+        "low": 154,
+        "medium": 844,
+        "high": 0
+    },
+    "surprised": {
+        "low": 961,
+        "medium": 39,
+        "high": 0
+    },
+    "happy": {
+        "low": 481,
+        "medium": 518,
+        "high": 1
+    },
+    "sad": {
+        "low": 726,
+        "medium": 267,
+        "high": 0
+    },
+    "disgusted": {
+        "low": 995,
+        "medium": 5,
+        "high": 0
+    },
+    "angry": {
+        "low": 936,
+        "medium": 6,
+        "high": 0
+    },
+    "fearful": {
+        "low": 930,
+        "medium": 70,
+        "high": 0
+    }
+}

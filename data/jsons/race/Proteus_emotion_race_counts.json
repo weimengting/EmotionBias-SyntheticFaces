@@ -1,0 +1,44 @@
+{
+    "person": {
+        "White": 957,
+        "Black": 9,
+        "Asian": 0,
+        "Others": 32
+    },
+    "surprised": {
+        "White": 1000,
+        "Black": 0,
+        "Asian": 0,
+        "Others": 0
+    },
+    "happy": {
+        "White": 953,
+        "Black": 44,
+        "Asian": 0,
+        "Others": 3
+    },
+    "sad": {
+        "White": 876,
+        "Black": 1,
+        "Asian": 0,
+        "Others": 116
+    },
+    "disgusted": {
+        "White": 931,
+        "Black": 1,
+        "Asian": 0,
+        "Others": 68
+    },
+    "angry": {
+        "White": 926,
+        "Black": 4,
+        "Asian": 0,
+        "Others": 12
+    },
+    "fearful": {
+        "White": 994,
+        "Black": 0,
+        "Asian": 0,
+        "Others": 6
+    }
+}

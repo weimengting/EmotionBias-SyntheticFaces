@@ -1,0 +1,30 @@
+{
+    "person": {
+        "Male": 968,
+        "Female": 30
+    },
+    "surprised": {
+        "Male": 837,
+        "Female": 163
+    },
+    "happy": {
+        "Male": 935,
+        "Female": 65
+    },
+    "sad": {
+        "Male": 982,
+        "Female": 11
+    },
+    "disgusted": {
+        "Male": 1000,
+        "Female": 0
+    },
+    "angry": {
+        "Male": 942,
+        "Female": 0
+    },
+    "fearful": {
+        "Male": 947,
+        "Female": 53
+    }
+}
